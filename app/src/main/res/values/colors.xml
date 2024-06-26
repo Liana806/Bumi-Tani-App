@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="darkGreen">#ff263B06</color> <!--smua textcolor-->
+    <color name="greyLight">#ffF8F8FB</color>
+    <color name="bgcolor">#FFFDFDFE</color>
+    <color name="grey">#FFA6A4A</color>
+    <color name="greenPastel">#FF78A433</color>
+    <color name="greyColor">#FFD9D9D9</color>
 </resources>

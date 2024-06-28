@@ -20,10 +20,10 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="407dp"
-        android:layout_height="423dp"
+        android:layout_width="match_parent"
+        android:layout_height="800dp"
         android:scaleType="centerCrop"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/bottom_white" />
@@ -32,14 +32,14 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="200dp"
         android:text="Selamat Datang \ndi Bumi Tani App"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="30dp"
-        android:textColor="#FFFFFF"
+        android:textColor="#000000"
         android:textSize="35dp"
         android:textStyle="bold"
-        app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <TextView
         android:id="@+id/textView3"
@@ -48,13 +48,13 @@
         android:text="Aplikasi Penyuluhan Pertanian, \nPendeteksi Penyakit Tanaman,\ndan Pemasaran Hasil Tani"
         android:textSize="23sp"
         android:textColor="@color/darkGreen"
-        android:layout_marginTop="140dp"
+        android:layout_marginTop="24dp"
         app:layout_constraintStart_toStartOf="@+id/textView"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <TextView
         android:id="@+id/introBtn"
-        android:layout_width="175dp"
+        android:layout_width="250dp"
         android:layout_height="65dp"
         android:gravity="center"
         android:textColor="@color/greyLight"

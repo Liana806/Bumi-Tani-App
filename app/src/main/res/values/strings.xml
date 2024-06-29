@@ -1,4 +1,23 @@
 <resources>
     <string name="app_name">Bumi Tani</string>
     <string name="lainnya_btnTxt">Lainnya</string>
+    <string name="productImg">Foto Produk</string>
+    <string name="chooseImg">Pilih Gambar</string>
+    <string name="productTxt">Nama Produk</string>
+    <string name="descTxt">Deskripsi Produk</string>
+    <string name="productPrice">Harga Produk</string>
+    <string name="btnCreate">Unggah Produk</string>
+    <string name="Home">Home</string>
+    <string name="Forum">Forum</string>
+    <string name="Scan">Scan</string>
+    <string name="Cart">Marketplace</string>
+    <string name="Profil">Profil</string>
+
+    <string-array name="productCategory">
+        <item>Cabai</item>
+        <item>Tomat</item>
+        <item>Bawang</item>
+        <item>Sayur</item>
+        <item>Buah</item>
+    </string-array>
 </resources>

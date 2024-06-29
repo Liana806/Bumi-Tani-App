@@ -31,12 +31,12 @@
                     android:layout_height="wrap_content"
                     android:text="Selamat Datang"
                     app:layout_constraintBottom_toBottomOf="parent"
-                    app:layout_constraintEnd_toEndOf="@+id/imageView5"
+                    app:layout_constraintEnd_toEndOf="@+id/addBtn"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
                 <ImageView
-                    android:id="@+id/imageView5"
+                    android:id="@+id/addBtn"
                     android:layout_width="30dp"
                     android:layout_height="30dp"
                     app:layout_constraintBottom_toBottomOf="parent"

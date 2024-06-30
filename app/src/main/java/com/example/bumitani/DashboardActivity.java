@@ -3,7 +3,6 @@ package com.example.bumitani;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageView;
 
 import androidx.activity.EdgeToEdge;
@@ -26,8 +25,8 @@ public class DashboardActivity extends AppCompatActivity {
         addBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(DashboardActivity.this, InputActivity.class);
-                startActivity(intent);
+                Intent intent = new Intent(DashboardActivity.this,InputActivity.class);
+                startActivities(new Intent[]{intent});
             }
         });
     }

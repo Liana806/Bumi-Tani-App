@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638129725290",
+    "project_id": "bumi-tani-72e0b",
+    "storage_bucket": "bumi-tani-72e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638129725290:android:88a1b324fce1f94bdb0f13",
+        "android_client_info": {
+          "package_name": "com.example.bumitani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_5_YqcqkJtfmKIzcB1maRq7pIgkudfFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

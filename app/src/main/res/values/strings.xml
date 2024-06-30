@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Bumi Tani</string>
     <string name="lainnya_btnTxt">Lainnya</string>
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
     <string name="productImg">Foto Produk</string>
     <string name="chooseImg">Pilih Gambar</string>
     <string name="productTxt">Nama Produk</string>
@@ -20,4 +24,6 @@
         <item>Sayur</item>
         <item>Buah</item>
     </string-array>
+
+
 </resources>
